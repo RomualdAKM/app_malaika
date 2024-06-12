@@ -1,0 +1,1 @@
+<img class="w-20" src="{{ asset('logos/logo.png') }}" alt="malaiqua.com">
